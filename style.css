@@ -27,21 +27,24 @@
 	background-color: #f4f4f4;
 }
 #answerzone{
-	margin-top: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	padding: 20px;
 }
 #title{
+	margin-top: 0;
 	margin-bottom:18px;
 }
 #contents{
 	margin-bottom:18px;
 }
 #rb{
- background-color: #cecece;
-  display:flex;
-  justify-content: center;
-  height:50px;
-  width:100%;
+	background-color: #cecece;
+  	display:flex;
+  	justify-content: center;
+  	height:50px;
+  	width:100%;
+  	border: 0;
 }
 #rb:hover{
 	background-color: #e0e0e0;
